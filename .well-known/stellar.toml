@@ -1,0 +1,48 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="OPIUM BIRD"
+ORG_URL="https://opiumbird-angels.github.io/i/"
+ORG_DESCRIPTION="Opium Bird is an independent digital asset project issuing tokens on the Stellar network."
+
+[[CURRENCIES]]
+code="PLAGUE"
+issuer="GCORGDIQF2O42CE3XEGHX3AEH5ZZ3ZSBAHOFBG6S4RZCKKP54J6AIX65"
+name="PLAGUE"
+desc="Opium Bird digital asset."
+display_decimals=7
+image="https://opiumbird-angels.github.io/i/9b74eea5-2bda-4e19-a79f-c67aaa7210b6.png"
+
+[[CURRENCIES]]
+code="CANCER"
+issuer="GCORGDIQF2O42CE3XEGHX3AEH5ZZ3ZSBAHOFBG6S4RZCKKP54J6AIX65"
+name="CANCER"
+desc="Opium Bird digital asset."
+display_decimals=7
+image="https://opiumbird-angels.github.io/i/9b74eea5-2bda-4e19-a79f-c67aaa7210b6.png"
+
+[[CURRENCIES]]
+code="AUTISM"
+issuer="GCORGDIQF2O42CE3XEGHX3AEH5ZZ3ZSBAHOFBG6S4RZCKKP54J6AIX65"
+name="AUTISM"
+desc="Opium Bird digital asset."
+display_decimals=7
+image="https://opiumbird-angels.github.io/i/9b74eea5-2bda-4e19-a79f-c67aaa7210b6.png"
+
+[[CURRENCIES]]
+code="CHILDREN"
+issuer="GCORGDIQF2O42CE3XEGHX3AEH5ZZ3ZSBAHOFBG6S4RZCKKP54J6AIX65"
+name="CHILDREN"
+desc="Opium Bird digital asset."
+display_decimals=7
+image="https://opiumbird-angels.github.io/i/9b74eea5-2bda-4e19-a79f-c67aaa7210b6.png"
+
+[[CURRENCIES]]
+code="OPIUMBIRD"
+issuer="GCORGDIQF2O42CE3XEGHX3AEH5ZZ3ZSBAHOFBG6S4RZCKKP54J6AIX65"
+name="OPIUMBIRD"
+desc="Opium Bird digital asset."
+display_decimals=1
+image="https://opiumbird-angels.github.io/i/9b74eea5-2bda-4e19-a79f-c67aaa7210b6.png"
